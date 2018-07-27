@@ -19,4 +19,4 @@
 
 ## Screen Shots:
 ***Login Page***
-![Screenshot](dropnmail 1.png)
+![Screenshot](https://github.com/rohitmethwani/Drop-N-Mail/blob/master/dropnmail%201.png)
