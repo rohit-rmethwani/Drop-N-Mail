@@ -9,9 +9,9 @@ While using google account,first enable access to less secure apps in privacy se
 
 
 ## How it works:
-1.Simply log into the application using your email id and password.
-2.Drag and drop the files on the panel and enter the email address of the receipent.Multiple email address can be added just pe separating them with ';'.
-3.Click on the send button and your files are sent!
+- Simply log into the application using your email id and password.
+- Drag and drop the files on the panel and enter the email address of the receipent.Multiple email address can be added just pe separating them with ';'.
+- Click on the send button and your files are sent!
 
 ## Bugs:
 Tha application tends to but not actually crashes during sending the mail.
